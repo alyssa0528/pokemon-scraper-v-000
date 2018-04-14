@@ -19,6 +19,6 @@ class Pokemon
   #  binding.pry
   end
 
-  def alter_hp 
+  def alter_hp
   end 
 end
