@@ -18,4 +18,7 @@ class Pokemon
     self.new(id: found_pokemon[0][0], name: found_pokemon[0][1], type: found_pokemon[0][2], hp: found_pokemon[0][3], db: db)
   #  binding.pry
   end
+
+  def alter_hp 
+  end 
 end
